@@ -1,0 +1,1 @@
+./darknet detector train data/ColorBar.data cfg/bar-yolov3-tiny.cfg yolov3-tiny.conv.15

@@ -1,0 +1,4 @@
+classes= 1
+train  = data/train.txt
+names = /home/alraziqi/darknet/data/ColorBar.names
+backup = /home/alraziqi/darknet/data/Colors/weights
